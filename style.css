@@ -1,0 +1,12 @@
+.gradio-container {
+  background:url("file=bg.jpg")!important;
+  font-family: "Roboto", sans-serif;
+}
+#col-container {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.submit{
+  height:85px;
+}
